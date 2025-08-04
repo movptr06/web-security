@@ -3,7 +3,22 @@
 # web security
 Open-source web application firewall
 
-</div>
+</div><br />
+
+[**web security**](https://github.com/movptr06/web-security) is open-source web application firewall (WAF).
+
+You can easily run the web application firewall by entering the command below.
+
+```bash
+git clone https://github.com/movptr06/web-security
+cd web-security
+
+pip install -r requirements.txt
+
+python3 src/waf.py -p PORT RHOST RPORT
+```
+
+<br />
 
 > **한세사이버보안고등학교 시스템보안연구부**
 > 
