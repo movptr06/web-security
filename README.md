@@ -9,6 +9,8 @@ Open-source web application firewall
 
 You can easily run the web application firewall by entering the command below.
 
+**New repository** [**SSR-software-dev/web-security**](https://github.com/SSR-software-dev/web-security)
+
 ```bash
 git clone https://github.com/movptr06/web-security
 cd web-security
